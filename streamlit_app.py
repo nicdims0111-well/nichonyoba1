@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.write("Hello, :blue[*MOKKK!*] :smile:")
+st.write("Hello, :green[*MOKKK!*] :smile:")
 
 
 
