@@ -1,5 +1,10 @@
 import streamlit as st
 
+st.write("Hello, *WARYOW* :sunglasses:")
+
+
+
+
 st.title("This is a title")
 st.title(":blue[PENENTUAN BILANGAN GANJIL GENAP] :sunglasses:")
 st.title(":orange[coba masukan angkamu]")
